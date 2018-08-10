@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4"
+    android:orientation="vertical">
+
+
+    <view xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/note"
+        class="com.dvl.tablayout_materialdesign.LineEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#03A9F4"
+        android:fadingEdge="vertical"
+        android:fastScrollAlwaysVisible="true"
+        android:fastScrollEnabled="true"
+        android:gravity="top"
+        android:layout_weight="1"
+        android:maxLines="999"
+        android:padding="5dp"
+        android:scrollbars="vertical"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/Custom_Button_1"
+        android:layout_height="60dp"
+        android:layout_width="wrap_content"
+        android:text="@string/save_bt" />
+
+
+</LinearLayout>

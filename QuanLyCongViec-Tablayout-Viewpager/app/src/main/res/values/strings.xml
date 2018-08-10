@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lịch làm việc - Ghi chú</string>
+    <string name="add_bt">Thêm</string>
+    <string name="edit_bt">Sửa</string>
+    <string name="cancel_bt">Hủy</string>
+    <string name="save_bt">Lưu</string>
+    <string name="add_new">Thêm công việc</string>
+    <string name="edit">Sửa</string>
+    <string name="remove">Xóa</string>
+    <string name="input_work">Nhập công việc</string>
+    <string name="input_time">Nhập thời gian</string>
+    <string name="add_success">Thêm thành công</string>
+    <string name="remove_success">Xóa thành công</string>
+    <string name="save_success">Lưu thành công</string>
+    <string name="edit_success">Sửa thành công</string>
+    <string name="error_empty">Bạn chưa nhập liệu</string>
+    <string name="tab1">Lịch làm việc</string>
+    <string name="tab2">Ghi chú</string>
+    <string name="check">Quan trọng</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="thu2">Thứ 2</string>
+    <string name="thu3">Thứ 3</string>
+    <string name="thu4">Thứ 4</string>
+    <string name="thu5">Thứ 5</string>
+    <string name="thu6">Thứ 6</string>
+    <string name="thu7">Thứ 7</string>
+    <string name="cn">Chủ nhật</string>
+    <string name="quit">Thoát chương trình</string>
+    <string name="ask_2_quit">Bạn có chắc không ?</string>
+    <string name="no_dialog_bt">Không</string>
+    <string name="yes_dialog_bt">Có</string>
+    <string name="delete">Xóa lịch</string>
+    <string name="ask_2_del">Bạn có muốn XÓA không ?</string>
+    <string name="about">Tác giả: Đường Vỷ Luân</string>
+</resources>

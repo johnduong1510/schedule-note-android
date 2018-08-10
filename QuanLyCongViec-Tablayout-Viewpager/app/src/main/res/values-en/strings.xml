@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Schedule - Quick Note</string>
+    <string name="add_bt">Add</string>
+    <string name="edit_bt">Edit</string>
+    <string name="cancel_bt">Cancel</string>
+    <string name="save_bt">Save</string>
+    <string name="add_new">Add new</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="input_work">Type your work</string>
+    <string name="input_time">Time</string>
+    <string name="add_success">Add successfully</string>
+    <string name="remove_success">Remove successfully</string>
+    <string name="save_success">Save successfully</string>
+    <string name="edit_success">Edit successfully</string>
+    <string name="error_empty">Empty</string>
+    <string name="tab1">Schedule</string>
+    <string name="tab2">Quick Note</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="check">Important</string>
+    <string name="thu2">Monday</string>
+    <string name="thu3">Tuesday</string>
+    <string name="thu4">Wednesday</string>
+    <string name="thu5">Thursday</string>
+    <string name="thu6">Friday</string>
+    <string name="thu7">Saturday</string>
+    <string name="cn">Sunday</string>
+    <string name="quit">Quit</string>
+    <string name="ask_2_quit">Are you sure ?</string>
+    <string name="no_dialog_bt">No</string>
+    <string name="yes_dialog_bt">Yes</string>
+    <string name="delete">Delete a schedule</string>
+    <string name="ask_2_del">Are you sure to DELETE ?</string>
+    <string name="about">Tác giả: Đường Vỷ Luân</string>
+</resources>
